@@ -1,0 +1,46 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net7.0-windows</TargetFramework>
+        <Nullable>enable</Nullable>
+        <UseWPF>true</UseWPF>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <None Remove="Assets\Airwaves-removebg-preview.png" />
+      <Resource Include="Assets\Airwaves-removebg-preview.png" />
+      <None Remove="Assets\Capri_Multi_Vitamin-removebg-preview.png" />
+      <None Remove="Assets\Coca_Cola-removebg-preview.png" />
+      <Resource Include="Assets\Coca_Cola-removebg-preview.png" />
+      <None Remove="Assets\Capri_Orange-removebg-preview.png" />
+      <Resource Include="Assets\Capri_Orange-removebg-preview.png" />
+      <None Remove="Assets\Comella_Choco-removebg-preview.png" />
+      <Resource Include="Assets\Comella_Choco-removebg-preview.png" />
+      <None Remove="Assets\Feuerzeug-removebg-preview.png" />
+      <Resource Include="Assets\Feuerzeug-removebg-preview.png" />
+      <None Remove="Assets\Lipton_Seftali-removebg-preview.png" />
+      <Resource Include="Assets\Lipton_Seftali-removebg-preview.png" />
+      <None Remove="Assets\Ice_Tea_Cannabis-removebg-preview.png" />
+      <Resource Include="Assets\Ice_Tea_Cannabis-removebg-preview.png" />
+      <None Remove="Assets\Redbull-removebg-preview.png" />
+      <Resource Include="Assets\Redbull-removebg-preview.png" />
+      <None Remove="Assets\M_und_Ms-removebg-preview.png" />
+      <Resource Include="Assets\M_und_Ms-removebg-preview.png" />
+      <None Remove="Assets\Snickers-removebg-preview.png" />
+      <Resource Include="Assets\Snickers-removebg-preview.png" />
+      <None Remove="Assets\Vittel_Wasser-removebg-preview.png" />
+      <Resource Include="Assets\Vittel_Wasser-removebg-preview.png" />
+      <None Remove="Assets\Vitamin_Water_Tropical-removebg-preview.png" />
+      <Resource Include="Assets\Vitamin_Water_Tropical-removebg-preview.png" />
+      <None Remove="Assets\Zweifel_Nature-removebg-preview.png" />
+      <Resource Include="Assets\Zweifel_Nature-removebg-preview.png" />
+      <None Remove="Assets\Zweifel_Paprika-removebg-preview.png" />
+      <Resource Include="Assets\Zweifel_Paprika-removebg-preview.png" />
+      <None Remove="Assets\Zweifel_Wave-removebg-preview.png" />
+      <Resource Include="Assets\Zweifel_Wave-removebg-preview.png" />
+      <None Remove="Assets\Transparent.png" />
+      <Resource Include="Assets\Transparent.png" />
+    </ItemGroup>
+
+</Project>

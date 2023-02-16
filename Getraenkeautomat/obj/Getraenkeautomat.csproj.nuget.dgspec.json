@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\liqri\\Desktop\\Programmieren\\Getraenkeautomat\\Getraenkeautomat\\Getraenkeautomat.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\liqri\\Desktop\\Programmieren\\Getraenkeautomat\\Getraenkeautomat\\Getraenkeautomat.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\liqri\\Desktop\\Programmieren\\Getraenkeautomat\\Getraenkeautomat\\Getraenkeautomat.csproj",
+        "projectName": "Getraenkeautomat",
+        "projectPath": "C:\\Users\\liqri\\Desktop\\Programmieren\\Getraenkeautomat\\Getraenkeautomat\\Getraenkeautomat.csproj",
+        "packagesPath": "C:\\Users\\liqri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\liqri\\Desktop\\Programmieren\\Getraenkeautomat\\Getraenkeautomat\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\liqri\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\liqri\\.dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
